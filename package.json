@@ -20,6 +20,7 @@
   "devDependencies": {
     "babel-eslint": "^8.2.6",
     "backpack-react-scripts": "^7.0.0",
+    "bpk-component-panel": "^1.0.145",
     "bpk-component-text": "^1.0.108",
     "bpk-mixins": "^17.16.1",
     "bpk-stylesheets": "^3.2.155",
